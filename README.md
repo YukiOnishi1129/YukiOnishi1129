@@ -1,5 +1,6 @@
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiOnishi1129&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.daily.dev/yuki"><img src="https://api.daily.dev/devcards/v2/IytwLEYk5PX0HyTXp5pEg.png?type=default&r=9ex" width="356" alt="yuki's Dev Card"/></a>
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YukiOnishi1129&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiOnishi1129&theme=github_dark&layout=compact
