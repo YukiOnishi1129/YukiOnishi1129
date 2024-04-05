@@ -15,7 +15,7 @@ I'm Yuki Onishi, web developer!
 
  ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,php,nodejs,swift,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,laravel,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,php,nodejs,swift,kotlin,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,laravel,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
 
 
 
