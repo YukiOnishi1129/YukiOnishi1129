@@ -3,7 +3,7 @@
 
 
 ## 🙋 About Yuki Onishi
-I'm a web and mobile developer, using typescript, go and gcp! 
+I'm a web and mobile developer, working mostly with typescript, go and gcp! 
 
 ### 🌱 my skills
 
