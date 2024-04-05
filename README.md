@@ -1,27 +1,28 @@
 
 
-# Hi there
 
-## About me
-I'm Yuki Onishi, web developer! 
 
-### Likes
-* Beautiful code
-* Play pokemon
+## 🙋 About Yuki Onishi
+I'm a web developer, using typescript, go and gcp! 
 
-## Contact me
-*  [linkdin](https://www.linkedin.com/in/yuki-onishi-19141a200/)
-*  [X](https://twitter.com/yukionishi1989)
-
- ## Skills
+### 🌱 my skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,go,dart,php,nodejs,swift,kotlin,html,css,sass,tailwind,react,nextjs,vue,nuxtjs,express,nestjs,laravel,flutter,docker,aws,gcp,graphql,mysql,postgres,firebase,supabase,prisma,jest,npm,yarn,webpack&perline=10)](https://skillicons.dev)
 
+### 🍪 likes
+* Beautiful code
+* Play pokemon
+
+### 📩 contact me
+*  [linkdin](https://www.linkedin.com/in/yuki-onishi-19141a200/)
+*  [X](https://twitter.com/yukionishi1989)
 
 
 
 
-## Status
+
+
+## 📈 Status
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiOnishi1129&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />          <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YukiOnishi1129&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
