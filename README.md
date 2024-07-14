@@ -14,7 +14,7 @@ I'm a web and mobile developer, working mostly with typescript, go and gcp!
 * Play pokemon
 
 ### 📩 contact me
-*  [linkdin](https://www.linkedin.com/in/yuki-onishi-19141a200/)
+*  [linkdin](https://www.linkedin.com/in/yukioonishi/)
 *  [X](https://twitter.com/yukionishi1989)
 
 
